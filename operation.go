@@ -412,7 +412,7 @@ const (
 	schemaExampleTag    = "schemaExample"
 	formatTag           = "format"
 	titleTag            = "title"
-	validateTag         = "validate"
+	validateTag         = "swag-validate"
 	minimumTag          = "minimum"
 	maximumTag          = "maximum"
 	minLengthTag        = "minLength"
